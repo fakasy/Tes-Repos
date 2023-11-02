@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>fuckass</h1>
-    <a href="{{ route('student.create') }}">Tambah Data</a>
+    <a href="{{ route('student.create') }}">Kontol Badak</a>
     <table border="1">
         <thead>
         <tr>
